@@ -1,2 +1,2 @@
 # NoSQL-MongoDB-
-MongoDB project 
+MongoDB insights finding
